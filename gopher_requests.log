@@ -1,0 +1,76 @@
+[2024-04-24 16:03:44] Sending request to comp3310.ddns.net:70: 
+[2024-04-24 16:03:44] Sending request to comp3310.ddns.net:70: /rfc1436.txt
+[2024-04-24 16:03:44] Processed text file: comp3310.ddns.net:70/rfc1436.txt with size 37396 bytes
+[2024-04-24 16:03:45] Sending request to comp3310.ddns.net:70: /acme
+[2024-04-24 16:03:45] Sending request to comp3310.ddns.net:70: /acme/about
+[2024-04-24 16:03:45] Processed text file: comp3310.ddns.net:70/acme/about with size 573 bytes
+[2024-04-24 16:03:45] Sending request to comp3310.ddns.net:70: /acme/products
+[2024-04-24 16:03:45] Sending request to comp3310.ddns.net:70: /acme/products/anvils
+[2024-04-24 16:03:45] Processed text file: comp3310.ddns.net:70/acme/products/anvils with size 328 bytes
+[2024-04-24 16:03:45] Sending request to comp3310.ddns.net:70: /acme/products/pianos
+[2024-04-24 16:03:45] Processed text file: comp3310.ddns.net:70/acme/products/pianos with size 246 bytes
+[2024-04-24 16:03:45] Sending request to comp3310.ddns.net:70: /acme/products/paint
+[2024-04-24 16:03:46] Processed text file: comp3310.ddns.net:70/acme/products/paint with size 178 bytes
+[2024-04-24 16:03:46] Sending request to comp3310.ddns.net:70: /acme/products/traps
+[2024-04-24 16:03:46] Sending request to comp3310.ddns.net:70: /acme/contact
+[2024-04-24 16:03:46] Processed text file: comp3310.ddns.net:70/acme/contact with size 422 bytes
+[2024-04-24 16:03:46] Sending request to comp3310.ddns.net:70: /maze/17
+[2024-04-24 16:03:46] Sending request to comp3310.ddns.net:70: /maze/18
+[2024-04-24 16:03:46] Sending request to comp3310.ddns.net:70: /maze/19
+[2024-04-24 16:03:47] Sending request to comp3310.ddns.net:70: /maze/statuette
+[2024-04-24 16:03:47] Processed text file: comp3310.ddns.net:70/maze/statuette with size 82 bytes
+[2024-04-24 16:03:47] Sending request to comp3310.ddns.net:70: /maze/floppy
+[2024-04-24 16:03:47] Processed text file: comp3310.ddns.net:70/maze/floppy with size 38 bytes
+[2024-04-24 16:03:47] Sending request to comp3310.ddns.net:70: /maze/20
+[2024-04-24 16:03:47] Sending request to comp3310.ddns.net:70: /maze/21
+[2024-04-24 16:03:48] Sending request to comp3310.ddns.net:70: /maze/22
+[2024-04-24 16:03:48] Sending request to comp3310.ddns.net:70: /maze/23
+[2024-04-24 16:03:48] Sending request to comp3310.ddns.net:70: /misc
+[2024-04-24 16:03:48] Sending request to comp3310.ddns.net:70: /misc/empty
+[2024-04-24 16:03:48] Sending request to comp3310.ddns.net:70: /misc/empty.txt
+[2024-04-24 16:03:49] Processed text file: comp3310.ddns.net:70/misc/empty.txt with size 3 bytes
+[2024-04-24 16:03:49] Sending request to comp3310.ddns.net:70: /misc/nesta
+[2024-04-24 16:03:49] Sending request to comp3310.ddns.net:70: /misc/nestb
+[2024-04-24 16:03:49] Sending request to comp3310.ddns.net:70: /misc/nestc
+[2024-04-24 16:03:49] Sending request to comp3310.ddns.net:70: /misc/nestd
+[2024-04-24 16:03:50] Sending request to comp3310.ddns.net:70: /misc/neste
+[2024-04-24 16:03:50] Sending request to comp3310.ddns.net:70: /misc/nestf
+[2024-04-24 16:03:50] Sending request to comp3310.ddns.net:70: /misc/nestg
+[2024-04-24 16:03:50] Sending request to comp3310.ddns.net:70: /misc/nesth
+[2024-04-24 16:03:50] Sending request to comp3310.ddns.net:70: /misc/nesti
+[2024-04-24 16:03:51] Sending request to comp3310.ddns.net:70: /misc/nestj
+[2024-04-24 16:03:51] Sending request to comp3310.ddns.net:70: /misc/nestk
+[2024-04-24 16:03:52] Sending request to comp3310.ddns.net:70: /misc/nestl
+[2024-04-24 16:03:52] Sending request to comp3310.ddns.net:70: /misc/nestm
+[2024-04-24 16:03:52] Sending request to comp3310.ddns.net:70: /misc/nestn
+[2024-04-24 16:03:53] Sending request to comp3310.ddns.net:70: /misc/nesto
+[2024-04-24 16:03:53] Sending request to comp3310.ddns.net:70: /misc/nestp
+[2024-04-24 16:03:53] Sending request to comp3310.ddns.net:70: /misc/nestq
+[2024-04-24 16:03:53] Sending request to comp3310.ddns.net:70: /misc/nestr
+[2024-04-24 16:03:54] Sending request to comp3310.ddns.net:70: /misc/nests
+[2024-04-24 16:03:54] Sending request to comp3310.ddns.net:70: /misc/nestt
+[2024-04-24 16:03:54] Sending request to comp3310.ddns.net:70: /misc/nestu
+[2024-04-24 16:03:54] Sending request to comp3310.ddns.net:70: /misc/nestv
+[2024-04-24 16:03:54] Sending request to comp3310.ddns.net:70: /misc/nestw
+[2024-04-24 16:03:55] Sending request to comp3310.ddns.net:70: /misc/nestx
+[2024-04-24 16:03:55] Sending request to comp3310.ddns.net:70: /misc/nesty
+[2024-04-24 16:03:55] Sending request to comp3310.ddns.net:70: /misc/nestz
+[2024-04-24 16:03:55] Processed text file: comp3310.ddns.net:70/misc/nestz with size 11 bytes
+[2024-04-24 16:03:55] Sending request to comp3310.ddns.net:70: /misc/nonexistent
+[2024-04-24 16:03:55] Sending request to comp3310.ddns.net:70: /misc/binary
+[2024-04-24 16:03:56] Processed binary file: comp3310.ddns.net:70/misc/binary with size 253 bytes
+[2024-04-24 16:03:56] Sending request to comp3310.ddns.net:70: /misc/encabulator.jpeg
+[2024-04-24 16:03:56] Processed binary file: comp3310.ddns.net:70/misc/encabulator.jpeg with size 45584 bytes
+[2024-04-24 16:03:56] Sending request to comp3310.ddns.net:70: /misc/loooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooong
+[2024-04-24 16:03:56] Processed text file: comp3310.ddns.net:70/misc/loooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooong with size 20 bytes
+[2024-04-24 16:03:56] Sending request to comp3310.ddns.net:70: /misc/more
+[2024-04-24 16:03:56] Sending request to comp3310.ddns.net:70: /misc/malformed1
+[2024-04-24 16:03:56] Sending request to comp3310.ddns.net:70: /misc/malformed2
+[2024-04-24 16:03:57] Processed text file: comp3310.ddns.net:70/misc/malformed2 with size 111 bytes
+[2024-04-24 16:03:57] Sending request to comp3310.ddns.net:70: /misc/firehose
+[2024-04-24 16:04:05] Data exceeded 1048576 bytes, skipping file.
+[2024-04-24 16:04:05] Sending request to comp3310.ddns.net:70: /misc/tarpit
+[2024-04-24 16:04:20] Connection timed out.
+[2024-04-24 16:04:20] Sending request to comp3310.ddns.net:70: /misc/godot
+[2024-04-24 16:04:25] Connection timed out.
+[2024-04-24 16:04:28] Failed to connect to comp3310.ddns.net:71 - timed out

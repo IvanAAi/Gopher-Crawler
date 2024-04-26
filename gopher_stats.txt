@@ -1,0 +1,30 @@
+Total directories: 41
+Text files: 12
+comp3310.ddns.net:70/rfc1436.txt with size 37396 bytes
+comp3310.ddns.net:70/acme/about with size 573 bytes
+comp3310.ddns.net:70/acme/products/anvils with size 328 bytes
+comp3310.ddns.net:70/acme/products/pianos with size 246 bytes
+comp3310.ddns.net:70/acme/products/paint with size 178 bytes
+comp3310.ddns.net:70/acme/contact with size 422 bytes
+comp3310.ddns.net:70/maze/statuette with size 82 bytes
+comp3310.ddns.net:70/maze/floppy with size 38 bytes
+comp3310.ddns.net:70/misc/empty.txt with size 3 bytes
+comp3310.ddns.net:70/misc/nestz with size 11 bytes
+comp3310.ddns.net:70/misc/loooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooong with size 20 bytes
+comp3310.ddns.net:70/misc/malformed2 with size 111 bytes
+Binary files: 2
+comp3310.ddns.net:70/misc/binary with size 253 bytes
+comp3310.ddns.net:70/misc/encabulator.jpeg with size 45584 bytes
+Smallest text file: ('comp3310.ddns.net:70/misc/empty.txt', 3)
+Contents of the smallest text file:
+.
+
+Largest text file: ('comp3310.ddns.net:70/rfc1436.txt', 37396)
+Smallest binary file: ('comp3310.ddns.net:70/misc/binary', 253)
+Largest binary file: ('comp3310.ddns.net:70/misc/encabulator.jpeg', 45584)
+Errors encountered: 3
+External servers checked: {'gopher.floodgap.com:70': True, 'comp3310.ddns.net:71': False}
+Error details:
+('/misc/firehose', 'Data exceeded 1048576 bytes, skipping file.')
+('/misc/tarpit', 'Connection timed out.')
+('/misc/godot', 'Connection timed out.')
