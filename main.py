@@ -4,9 +4,18 @@ from gopher_crawler import crawl_gopher
 
 
 def main():
-    # Set up the Gopher server and port for connection
-    host = "comp3310.ddns.net"
-    port = 70
+    # Request user input for the Gopher server address and port
+    host = input("Enter the Gopher server address: ")
+    port_input = input("Enter the Gopher server port: ")
+
+    # Validate and convert the port to an integer
+    try:
+        port = int(port_input)
+        if not (0 <= port <= 65535):
+            raise ValueError("Port number must be between 0 and 65535.")
+    except ValueError as e:
+        print(f"Invalid port number: {e}")
+        return
     # Setting logs
     # Configure logging to write messages to files and print to console
     # Note: Set Mode to 'w' to overwrite old logs
