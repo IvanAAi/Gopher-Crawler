@@ -23,7 +23,6 @@ The Gopher Crawler is designed with simplicity and readability in mind. It consi
 
 The crawler can be easily adapted to suit different needs:
 
-- **Server and Port Configuration**: You can change the host and port in `main.py` to target a different Gopher server.
 - **Crawling Logic**: If you need to modify the crawling behavior, `gopher_crawler.py` is where you can add or adjust the existing functionality.
 - **Output Formatting**: To change how the data is logged or saved, simply modify the respective sections in `main.py`.
 - **Error Handling**: The crawler is set up to log detailed error messages. You can add more sophisticated error handling in the `gopher_request` function.
